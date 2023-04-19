@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ale-crm
-- 👀 I’m interested in videogame programming
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in videogame and web developing
+- 🌱 I’m currently learning frontend and backend frameworks
+- 💞️ I’m looking to collaborate on Material Design 3 for web!
 - 📫 How to reach me ... Instagram: @ale_crm
 
 <!---
