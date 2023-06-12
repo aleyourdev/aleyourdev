@@ -4,7 +4,7 @@
 
 I'm a developer and my goal is to become a full stack developer. I like to learn and use the most popular frameworks today for backend and frontend, such as **Express**, **Angular**, **Spring Boot**, **Next.js**, **Django** and many others. I'm also passionate about video game programming and I've made some projects with **Unity**. 🎮
 
-I want to collaborate in many interesting and innovative projects, such as **Material Design 3** for the web, which offers a new visual and interactive experience for users. 🌟
+I want to collaborate in many interesting and innovative projects, such as **[MonoGame](https://github.com/MonoGame/MonoGame)** for the game development, and I want to propose my personal projects. 🌟
 
 If you want to know more about me and my work, you can contact me at my [Email](dionisiocaramia@gmail.com) or check out my [GitHub profile](https://github.com/ale-crm)! 📧
 
