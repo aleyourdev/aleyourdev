@@ -6,9 +6,9 @@ I'm a developer and my goal is to become a full stack developer. I like to learn
 
 I want to collaborate in many interesting and innovative projects, such as **[MonoGame](https://github.com/MonoGame/MonoGame)** for the game development, and I want to propose my personal projects. 🌟
 
-If you want to know more about me and my work, you can contact me at my [Email](dionisiocaramia@gmail.com) or check out my [GitHub profile](https://github.com/ale-crm)! 📧
+If you want to know more about me and my work, you can contact me at my [Email](info@aleyour.dev)! 📧
 
-![GitHub followers](https://img.shields.io/github/followers/ale-crm?style=social)
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/alessandro-caramia-003223225/)
+![GitHub followers](https://img.shields.io/github/followers/aleyourdev?style=social)
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/aleyourdev/)
 
 Thank you for visiting my profile and have a nice day! 😊
